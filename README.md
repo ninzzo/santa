@@ -15,7 +15,7 @@ game "Secret Santa"
 #### POST /api/newGame
 Delete all all gamers and wishes (new game
 
-#### POST /api/newGame
+#### POST /api/addGamer
 Add gamer <br>
 params:<br>
 -first_name(string)<br>
